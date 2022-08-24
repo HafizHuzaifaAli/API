@@ -1,0 +1,17 @@
+[
+    {
+        "courseName":"Web And Mobile",
+        "id":1,
+        "duration":"8 Months"
+    },
+    {
+        "courseName":"Graphics Designing",
+        "id":2,
+        "duration":"4 Months"
+    },
+    {
+        "courseName":"Flutter",
+        "id":3,
+        "duration":"4 Months"
+    }
+]
